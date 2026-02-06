@@ -18,7 +18,6 @@ headers = {
 }
 
 
-# Decide whether to use GET or POST based on the API requirements
 response = requests.get(path, headers=headers)
 
 with open(f"{outdir}/servers.json", "w") as f:

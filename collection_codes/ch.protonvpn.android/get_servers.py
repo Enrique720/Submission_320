@@ -106,8 +106,9 @@ def main(outdir):
     server_response = requests.get(ENDPOINT, headers=headers).json()
 
     try:
-        path="https://vpn-api.proton.me/vpn/v1/loads?Tier="
+        path=""
         response_tier0 = requests.get(path+str(0), headers=headers)
+        time.sleep(5)
         response_tier2 = requests.get(path+str(2), headers=headers)
 
     except: 

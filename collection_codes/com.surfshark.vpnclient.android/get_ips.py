@@ -16,9 +16,7 @@ if __name__ == "__main__":
             connections = []
 
             for item in data:
-                #print(item['connectionName'])
                 connections.append(item['connectionName'])
-#                ips.append(get_ip_from_domain(item['connectionName']))
 
         # save the IPs to a txt file 
         folder_name = sys.argv[2]
@@ -26,11 +24,6 @@ if __name__ == "__main__":
         with open(f"{folder_name}/connections.txt", 'w') as conn_file:
             for conn in connections:
                 conn_file.write(f"{conn}\n")
-
-#        with open(f"{folder_name}/ips.txt", 'w') as ip_file:
-#            for ip in ips:
-#                ip_file.write(f"{ip}\n")
-
 
     except FileNotFoundError:
         print(f"File not found: {json_file_path}")

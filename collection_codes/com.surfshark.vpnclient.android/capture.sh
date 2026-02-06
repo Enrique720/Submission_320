@@ -5,7 +5,7 @@ if [ -z "$1" ]
     exit 1
 fi
 
-url=https://api.surfshark.com/v4/server/clusters/all
+url=
 
 
 date=$(date +'%m_%d_%Y')
