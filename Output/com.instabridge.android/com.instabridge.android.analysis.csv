@@ -1,0 +1,363 @@
+ip,is_vpn,city,province,country
+204.16.246.179,true,Pittsburgh,Pennsylvania,United States
+193.108.58.60,true,Vancouver,British Columbia,Canada
+172.233.24.123,true,Diadema,São Paulo,Brazil
+172.233.154.51,true,Los Angeles,California,United States
+198.72.126.198,true,Montréal,Quebec,Canada
+213.183.56.203,true,Moscow,Moscow,Russia
+94.237.62.200,true,London,England,United Kingdom
+172.105.193.77,true,Tokyo,Tokyo,Japan
+95.111.197.252,true,Singapore,,Singapore
+193.108.58.38,true,Vancouver,British Columbia,Canada
+38.54.38.143,true,Riyadh,Riyadh Region,Saudi Arabia
+103.60.15.202,true,Buffalo,New York,United States
+176.97.192.11,true,Lagos,Lagos,Nigeria
+45.33.62.190,true,Fremont,California,United States
+209.151.153.27,true,New York City,New York,United States
+91.201.65.171,true,Palermo,Sicily,Italy
+103.60.15.206,true,Buffalo,New York,United States
+64.74.163.124,true,Montréal,Quebec,Canada
+208.131.153.21,true,Millcreek,Utah,United States
+165.232.97.118,true,London,England,United Kingdom
+131.153.26.187,true,Atlanta,Georgia,United States
+185.175.56.117,true,Oslo,Oslo,Norway
+45.33.91.140,true,Cedar Knolls,New Jersey,United States
+81.171.6.107,true,Amsterdam,North Holland,Netherlands
+70.38.4.235,true,Montréal,Quebec,Canada
+207.244.89.176,true,Washington,District of Columbia,United States
+91.235.234.157,true,Tallinn,Harjumaa,Estonia
+207.244.89.179,true,Washington,District of Columbia,United States
+156.38.239.150,true,Johannesburg,Gauteng,South Africa
+64.74.163.126,true,Montréal,Quebec,Canada
+139.162.31.95,true,Singapore,,Singapore
+172.104.61.125,true,Singapore,,Singapore
+207.244.89.182,true,Bethesda,Maryland,United States
+43.249.36.77,true,Hong Kong,,Hong Kong
+23.83.129.68,true,Phoenix,Arizona,United States
+167.99.195.48,true,London,England,United Kingdom
+172.105.102.16,true,Toronto,Ontario,Canada
+173.199.71.81,true,Aubervilliers,Île-de-France,France
+2.58.241.46,true,Taipei,Taiwan,Taiwan
+172.233.154.166,true,Los Angeles,California,United States
+185.220.206.129,true,Rosh Ha‘Ayin,Central District,Israel
+139.59.141.179,true,Frankfurt am Main,Hesse,Germany
+185.192.44.54,true,Brussels,Brussels Capital,Belgium
+207.244.89.177,true,Washington,District of Columbia,United States
+198.72.126.102,true,Montréal,Quebec,Canada
+92.38.171.110,true,San Sebastián de los Reyes,Madrid,Spain
+172.233.145.160,true,Los Angeles,California,United States
+82.118.22.206,true,Gdańsk,Pomerania,Poland
+66.175.223.142,true,Fremont,California,United States
+70.38.4.234,true,Montréal,Quebec,Canada
+198.72.126.101,true,Montréal,Quebec,Canada
+45.79.58.104,true,Richardson,Texas,United States
+38.15.146.109,true,Montréal,Quebec,Canada
+172.105.187.54,true,Sydney,New South Wales,Australia
+139.162.217.214,true,London,England,United Kingdom
+198.204.229.3,true,Kansas City,Missouri,United States
+81.171.5.244,true,Amsterdam,North Holland,Netherlands
+43.249.36.86,true,Hong Kong,,Hong Kong
+94.237.93.62,true,Frankfurt am Main,Hesse,Germany
+43.249.36.70,true,Hong Kong,,Hong Kong
+131.221.32.55,true,Santiago,Santiago Metropolitan,Chile
+143.198.163.96,true,North Bergen,New Jersey,United States
+169.44.145.246,true,San Jose,California,United States
+207.154.230.137,true,Frankfurt am Main,Hesse,Germany
+70.38.4.237,true,Montréal,Quebec,Canada
+185.198.56.197,true,Bucharest,București,Romania
+131.153.26.186,true,Atlanta,Georgia,United States
+139.59.126.25,true,Singapore,,Singapore
+23.92.19.84,true,Cedar Knolls,New Jersey,United States
+169.44.145.245,true,San Jose,California,United States
+172.234.115.23,true,Stockholm,Stockholm,Sweden
+23.229.116.37,true,Los Angeles,California,United States
+81.171.6.106,true,Amsterdam,North Holland,Netherlands
+172.105.84.162,true,Frankfurt am Main,Hesse,Germany
+156.67.63.112,true,Istanbul,Istanbul,Turkey
+94.75.219.89,true,Amsterdam,North Holland,Netherlands
+140.99.254.181,true,Ashburn,Virginia,United States
+23.83.184.143,true,Phoenix,Arizona,United States
+207.244.89.180,true,Bethesda,Maryland,United States
+23.83.184.144,true,Phoenix,Arizona,United States
+207.244.89.168,true,Reston,Virginia,United States
+94.237.56.230,true,London,England,United Kingdom
+169.44.151.104,true,San Jose,California,United States
+94.131.10.41,true,Braga,Braga,Portugal
+74.201.177.108,true,Los Angeles,California,United States
+94.237.36.142,true,Helsinki,Uusimaa,Finland
+172.105.183.68,true,Sydney,New South Wales,Australia
+207.244.89.183,true,Bethesda,Maryland,United States
+172.104.184.200,true,Singapore,,Singapore
+104.244.76.100,true,Bern,Bern,Switzerland
+38.54.118.211,true,Bangkok,Bangkok,Thailand
+141.164.39.181,true,Gangseo-gu,Seoul,South Korea
+45.79.166.183,true,Cedar Knolls,New Jersey,United States
+92.223.79.23,true,Milan,Lombardy,Italy
+38.15.146.108,true,Montréal,Quebec,Canada
+45.90.57.142,true,Genève,Geneva,Switzerland
+23.229.116.34,true,Los Angeles,California,United States
+192.36.27.151,true,Copenhagen,Capital Region,Denmark
+207.244.89.187,true,Washington,District of Columbia,United States
+81.171.5.243,true,Amsterdam,North Holland,Netherlands
+216.250.97.118,true,Hong Kong,,Hong Kong
+185.198.56.199,true,Bucharest,București,Romania
+185.198.56.200,true,Bucharest,București,Romania
+184.107.108.131,true,Montréal,Quebec,Canada
+181.215.183.111,true,São Paulo,São Paulo,Brazil
+209.151.145.219,true,Santa Clara,California,United States
+172.233.145.84,true,Los Angeles,California,United States
+209.151.145.221,true,Santa Clara,California,United States
+172.237.102.76,true,London,England,United Kingdom
+165.227.84.179,true,North Bergen,New Jersey,United States
+172.105.175.33,true,Sydney,New South Wales,Australia
+66.42.117.128,true,Elk Grove Village,Illinois,United States
+198.204.229.4,true,Kansas City,Missouri,United States
+139.162.253.245,true,London,England,United Kingdom
+205.185.121.83,true,Las Vegas,Nevada,United States
+159.203.34.232,true,Toronto,Ontario,Canada
+172.236.54.233,true,Melbourne,Victoria,Australia
+205.185.117.144,true,Las Vegas,Nevada,United States
+79.141.174.106,true,Stockholm,Stockholm,Sweden
+185.117.89.12,true,Stockholm,Stockholm,Sweden
+188.166.113.243,true,Amsterdam,North Holland,Netherlands
+198.72.126.103,true,Montréal,Quebec,Canada
+104.192.3.90,true,Buffalo,New York,United States
+135.181.156.133,true,Helsinki,Uusimaa,Finland
+172.233.87.9,true,Osaka,Osaka,Japan
+195.201.26.193,true,Nürnberg,Bavaria,Germany
+135.181.156.129,true,Helsinki,Uusimaa,Finland
+172.233.150.227,true,Los Angeles,California,United States
+172.237.154.217,true,Chicago,Illinois,United States
+178.62.241.95,true,Amsterdam,North Holland,Netherlands
+184.164.129.83,true,Phoenix,Arizona,United States
+193.42.38.122,true,Seattle,Washington,United States
+143.198.196.159,true,Singapore,,Singapore
+51.15.247.13,true,Paris,Île-de-France,France
+178.62.3.31,true,London,England,United Kingdom
+172.233.145.225,true,Los Angeles,California,United States
+94.237.109.158,true,Amsterdam,North Holland,Netherlands
+38.54.105.55,true,Istanbul,Istanbul,Turkey
+204.16.246.181,true,Pittsburgh,Pennsylvania,United States
+201.131.126.59,true,Guadalajara,Jalisco,Mexico
+74.201.177.106,true,Los Angeles,California,United States
+139.162.100.169,true,Tokyo,Tokyo,Japan
+178.209.50.144,true,Zürich,Zurich,Switzerland
+140.99.254.182,true,Ashburn,Virginia,United States
+38.15.146.106,true,Montréal,Quebec,Canada
+46.166.185.93,true,Roosendaal,North Brabant,Netherlands
+50.116.51.28,true,Cedar Knolls,New Jersey,United States
+172.232.195.15,true,Milan,Lombardy,Italy
+172.233.154.21,true,Los Angeles,California,United States
+139.162.109.178,true,Tokyo,Tokyo,Japan
+205.185.113.204,true,Las Vegas,Nevada,United States
+207.244.71.43,true,Washington,District of Columbia,United States
+139.162.57.177,true,Singapore,,Singapore
+45.86.228.82,true,Al Fujairah City,Fujairah,United Arab Emirates
+81.171.6.99,true,Amsterdam,North Holland,Netherlands
+209.50.58.93,true,Chicago,Illinois,United States
+81.181.166.249,true,Timişoara,Timiș County,Romania
+172.233.87.170,true,Osaka,Osaka,Japan
+45.79.163.199,true,Cedar Knolls,New Jersey,United States
+204.16.246.178,true,Pittsburgh,Pennsylvania,United States
+2.58.241.45,true,Taipei,Taiwan,Taiwan
+43.249.36.72,true,Hong Kong,,Hong Kong
+172.233.145.215,true,Los Angeles,California,United States
+95.174.68.134,true,Al Fujairah City,Fujairah,United Arab Emirates
+45.153.127.4,true,Bucharest,București,Romania
+172.235.62.34,true,Los Angeles,California,United States
+198.204.229.6,true,Kansas City,Missouri,United States
+70.38.4.236,true,Montréal,Quebec,Canada
+180.149.231.19,true,Auckland,Auckland,New Zealand
+184.164.129.86,true,Phoenix,Arizona,United States
+74.3.163.21,true,Vancouver,British Columbia,Canada
+79.141.174.104,true,Stockholm,Stockholm,Sweden
+165.232.97.61,true,London,England,United Kingdom
+178.128.227.214,true,Toronto,Ontario,Canada
+139.162.185.176,true,Frankfurt am Main,Hesse,Germany
+131.153.26.190,true,Atlanta,Georgia,United States
+143.110.229.176,true,Santa Clara,California,United States
+174.138.29.210,true,Singapore,,Singapore
+165.232.97.163,true,London,England,United Kingdom
+172.233.154.200,true,Los Angeles,California,United States
+64.74.163.122,true,Montréal,Quebec,Canada
+172.105.189.128,true,Sydney,New South Wales,Australia
+172.237.154.186,true,Chicago,Illinois,United States
+95.216.209.2,true,Helsinki,Uusimaa,Finland
+172.232.195.149,true,Milan,Lombardy,Italy
+134.199.168.112,true,Sydney,New South Wales,Australia
+156.38.239.149,true,Johannesburg,Gauteng,South Africa
+180.149.231.18,true,Auckland,Auckland,New Zealand
+185.198.56.211,true,Bucharest,București,Romania
+204.16.246.182,true,Pittsburgh,Pennsylvania,United States
+5.199.174.195,true,Šiauliai,Siauliai,Lithuania
+172.236.193.31,true,Frankfurt am Main,Hesse,Germany
+60.248.41.136,true,Taoyuan City,Taiwan,Taiwan
+167.99.40.101,true,Amsterdam,North Holland,Netherlands
+23.239.11.89,true,Cedar Knolls,New Jersey,United States
+185.255.123.90,true,Lagos,Lagos,Nigeria
+206.53.48.226,true,Tbilisi,Tbilisi,Georgia
+167.71.173.88,true,Clifton,New Jersey,United States
+80.69.174.36,true,Helsinki,Uusimaa,Finland
+173.255.196.117,true,Richardson,Texas,United States
+172.105.198.168,true,Tokyo,Tokyo,Japan
+45.33.33.155,true,Fremont,California,United States
+207.244.89.163,true,Bethesda,Maryland,United States
+172.236.142.164,true,Singapore,,Singapore
+185.175.58.195,true,Vienna,Vienna,Austria
+178.209.50.143,true,Zürich,Zurich,Switzerland
+198.72.126.104,true,Montréal,Quebec,Canada
+153.92.126.111,true,Stockholm,Stockholm,Sweden
+198.72.126.194,true,Montréal,Quebec,Canada
+185.198.56.198,true,Bucharest,București,Romania
+77.73.68.110,true,Saint Petersburg,St.-Petersburg,Russia
+2.58.241.43,true,Taipei,Taiwan,Taiwan
+193.108.58.62,true,Vancouver,British Columbia,Canada
+172.232.186.29,true,Tukwila,Washington,United States
+64.74.163.123,true,Montréal,Quebec,Canada
+156.38.239.148,true,Johannesburg,Gauteng,South Africa
+81.171.5.245,true,Amsterdam,North Holland,Netherlands
+103.75.11.117,true,Auckland,Auckland,New Zealand
+172.104.61.40,true,Singapore,,Singapore
+172.105.70.149,true,Frankfurt am Main,Hesse,Germany
+172.236.143.6,true,Singapore,,Singapore
+172.105.73.116,true,Frankfurt am Main,Hesse,Germany
+204.16.246.180,true,Pittsburgh,Pennsylvania,United States
+169.44.145.243,true,San Jose,California,United States
+165.227.3.122,true,Santa Clara,California,United States
+144.202.59.244,true,Elk Grove Village,Illinois,United States
+195.123.225.63,true,Sofia,Sofia-Capital,Bulgaria
+103.60.15.204,true,Buffalo,New York,United States
+23.229.116.38,true,Los Angeles,California,United States
+172.233.153.50,true,Los Angeles,California,United States
+170.187.196.169,true,Singapore,,Singapore
+207.244.71.51,true,Washington,District of Columbia,United States
+180.149.231.21,true,Auckland,Auckland,New Zealand
+43.249.36.71,true,Hong Kong,,Hong Kong
+156.38.239.146,true,Johannesburg,Gauteng,South Africa
+45.33.88.154,true,Cedar Knolls,New Jersey,United States
+5.34.178.166,true,Miami,Florida,United States
+192.71.166.21,true,Thessaloníki,Central Macedonia,Greece
+209.151.150.25,true,New York City,New York,United States
+104.244.76.84,true,Bern,Bern,Switzerland
+158.247.203.251,true,Gangseo-gu,Seoul,South Korea
+194.71.126.19,true,Belgrade,Central Serbia,Serbia
+74.201.177.110,true,Los Angeles,California,United States
+172.245.236.7,true,Portland,Oregon,United States
+178.79.132.127,true,London,England,United Kingdom
+217.12.199.85,true,Kyiv,Kyiv City,Ukraine
+142.93.97.22,true,Frankfurt am Main,Hesse,Germany
+207.244.71.70,true,Washington,District of Columbia,United States
+131.153.26.189,true,Atlanta,Georgia,United States
+79.141.174.105,true,Stockholm,Stockholm,Sweden
+172.105.247.162,false,Frankfurt am Main,Hesse,Germany
+79.141.174.103,true,Stockholm,Stockholm,Sweden
+209.151.145.220,true,Santa Clara,California,United States
+172.105.171.153,true,Sydney,New South Wales,Australia
+45.79.138.50,true,Cedar Knolls,New Jersey,United States
+23.229.116.35,true,Los Angeles,California,United States
+165.227.85.125,true,North Bergen,New Jersey,United States
+207.244.89.169,true,Reston,Virginia,United States
+172.236.140.23,true,Singapore,,Singapore
+2.58.241.44,true,Taipei,Taiwan,Taiwan
+23.83.184.146,true,Phoenix,Arizona,United States
+46.101.208.45,true,Frankfurt am Main,Hesse,Germany
+116.203.224.101,true,Nürnberg,Bavaria,Germany
+172.232.157.110,true,Stockholm,Stockholm,Sweden
+172.233.249.60,true,Paris,Île-de-France,France
+103.60.15.205,true,Buffalo,New York,United States
+172.233.249.57,true,Paris,Île-de-France,France
+45.79.8.78,true,Richardson,Texas,United States
+81.171.6.117,true,Amsterdam,North Holland,Netherlands
+198.72.126.195,true,Montréal,Quebec,Canada
+103.60.15.203,true,Buffalo,New York,United States
+167.172.255.64,true,Clifton,New Jersey,United States
+45.159.250.51,true,Almaty,Almaty,Kazakhstan
+198.72.126.75,true,Montréal,Quebec,Canada
+184.164.129.85,true,Phoenix,Arizona,United States
+172.236.205.66,true,Frankfurt am Main,Hesse,Germany
+51.15.212.95,true,Paris,Île-de-France,France
+154.223.16.47,true,Barrio San Luis,Bogota D.C.,Colombia
+23.229.116.36,true,Los Angeles,California,United States
+94.237.52.58,true,London,England,United Kingdom
+169.44.145.244,true,San Jose,California,United States
+139.84.237.100,true,Benoni,Gauteng,South Africa
+209.151.145.222,true,Santa Clara,California,United States
+172.232.157.145,true,Stockholm,Stockholm,Sweden
+178.62.60.243,true,London,England,United Kingdom
+195.123.212.210,true,Riga,Riga,Latvia
+51.158.181.238,true,Amsterdam,North Holland,Netherlands
+143.110.229.26,true,Santa Clara,California,United States
+81.171.5.242,true,Amsterdam,North Holland,Netherlands
+5.182.37.192,true,Bucharest,București,Romania
+169.44.145.242,true,San Jose,California,United States
+208.131.155.39,true,Draper,Utah,United States
+192.121.87.12,true,Chisinau,Chișinău Municipality,Moldova
+208.83.238.183,true,Honolulu,Hawaii,United States
+45.90.57.15,true,Genève,Geneva,Switzerland
+81.171.5.229,true,Amsterdam,North Holland,Netherlands
+198.72.126.196,true,Montréal,Quebec,Canada
+156.38.239.147,true,Johannesburg,Gauteng,South Africa
+38.15.146.107,true,Montréal,Quebec,Canada
+172.233.110.223,true,Madrid,Madrid,Spain
+91.217.246.34,true,Larnaca,Larnaka,Cyprus
+212.47.237.169,true,Paris,Île-de-France,France
+38.60.209.231,true,Diadema,São Paulo,Brazil
+172.105.17.165,true,Toronto,Ontario,Canada
+107.182.235.104,true,Salt Lake City,Utah,United States
+198.204.229.5,true,Kansas City,Missouri,United States
+167.99.47.151,true,Amsterdam,North Holland,Netherlands
+188.34.158.228,true,Falkenstein,Saxony,Germany
+178.73.210.87,true,Stockholm,Stockholm,Sweden
+194.62.96.190,true,Madrid,Madrid,Spain
+140.99.254.180,true,Ashburn,Virginia,United States
+5.182.38.67,true,Budapest,Budapest,Hungary
+180.149.231.22,true,Auckland,Auckland,New Zealand
+200.55.241.54,true,Buenos Aires,Buenos Aires F.D.,Argentina
+134.122.35.26,true,Toronto,Ontario,Canada
+198.204.229.2,true,Kansas City,Missouri,United States
+180.149.231.20,true,Auckland,Auckland,New Zealand
+23.83.184.145,true,Phoenix,Arizona,United States
+51.158.98.118,true,Paris,Île-de-France,France
+185.104.183.20,true,Timişoara,Timiș County,Romania
+143.198.187.43,true,North Bergen,New Jersey,United States
+172.245.236.8,true,Portland,Oregon,United States
+159.65.106.170,true,Santa Clara,California,United States
+38.54.61.91,true,Jeddah,Mecca Region,Saudi Arabia
+38.54.36.203,true,Manila,Metro Manila,Philippines
+38.15.146.110,true,Montréal,Quebec,Canada
+74.201.177.109,true,Los Angeles,California,United States
+172.233.87.233,true,Osaka,Osaka,Japan
+87.120.237.105,true,Milan,Lombardy,Italy
+45.33.118.26,true,Richardson,Texas,United States
+209.127.13.158,true,Montréal,Quebec,Canada
+51.158.73.55,true,Paris,Île-de-France,France
+23.92.21.212,true,Cedar Knolls,New Jersey,United States
+38.60.194.163,true,Kuala Lumpur,Kuala Lumpur,Malaysia
+51.15.236.3,true,Paris,Île-de-France,France
+138.197.164.98,true,Toronto,Ontario,Canada
+195.123.245.128,true,Prague,Prague,Czech Republic
+45.33.118.6,true,Richardson,Texas,United States
+81.181.166.51,true,Timişoara,Timiș County,Romania
+163.172.173.35,true,Paris,Île-de-France,France
+131.153.26.188,true,Atlanta,Georgia,United States
+149.154.152.125,true,Vienna,Vienna,Austria
+207.244.89.164,true,Bethesda,Maryland,United States
+2.58.241.42,true,Taipei,Taiwan,Taiwan
+5.252.23.17,true,Bratislava,Bratislava Region,Slovakia
+64.74.163.125,true,Montréal,Quebec,Canada
+74.201.177.107,true,Los Angeles,California,United States
+198.72.126.197,true,Montréal,Quebec,Canada
+207.244.89.178,true,Washington,District of Columbia,United States
+209.50.54.85,true,Chicago,Illinois,United States
+184.164.129.82,true,Phoenix,Arizona,United States
+23.92.19.59,true,Cedar Knolls,New Jersey,United States
+213.183.41.230,true,Moscow,Moscow,Russia
+81.70.249.94,true,Beijing,Beijing,China
+188.166.248.60,true,Singapore,,Singapore
+5.253.40.38,true,Bucharest,București,Romania
+158.247.201.119,true,Gangseo-gu,Seoul,South Korea
+162.243.104.209,true,Secaucus,New Jersey,United States
+46.16.131.37,true,Dublin,Leinster,Ireland
+116.202.21.198,true,Falkenstein,Saxony,Germany
+184.164.129.84,true,Phoenix,Arizona,United States
+185.198.56.143,true,Bucharest,București,Romania

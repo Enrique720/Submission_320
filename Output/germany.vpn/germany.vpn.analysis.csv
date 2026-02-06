@@ -1,0 +1,153 @@
+ip,is_vpn,city,province,country
+92.38.149.112,true,Santa Clara,California,United States
+195.123.213.12,true,Riga,Riga,Latvia
+185.93.173.123,true,La Paz,La Paz Department,Bolivia
+31.40.212.134,true,Buenos Aires,Buenos Aires F.D.,Argentina
+89.185.84.34,true,London,England,United Kingdom
+185.108.129.196,true,Dublin,Leinster,Ireland
+89.223.93.176,true,Warsaw,Mazovia,Poland
+212.193.6.66,true,Toronto,Ontario,Canada
+95.164.116.142,true,Istanbul,Istanbul,Turkey
+185.81.114.226,false,Amsterdam,North Holland,Netherlands
+195.123.246.15,true,Prague,Prague,Czech Republic
+38.54.79.43,true,Karachi,Sindh,Pakistan
+185.47.254.234,true,Guatemala City,Guatemala,Guatemala
+213.156.138.138,true,Aubervilliers,Île-de-France,France
+31.172.70.52,true,Frankfurt am Main,Hesse,Germany
+45.154.205.172,true,London,England,United Kingdom
+185.117.119.165,true,Helsinki,Uusimaa,Finland
+37.252.11.61,true,Gdańsk,Pomerania,Poland
+185.48.248.126,true,Bratislava,Bratislava Region,Slovakia
+49.12.67.80,true,Falkenstein,Saxony,Germany
+89.185.84.15,true,London,England,United Kingdom
+89.44.197.181,true,Sofia,Sofia-Capital,Bulgaria
+45.145.0.31,true,Chisinau,Chișinău Municipality,Moldova
+195.133.88.11,true,Hanau am Main,Hesse,Germany
+66.70.190.236,true,Beauharnois,Quebec,Canada
+168.119.57.171,true,Falkenstein,Saxony,Germany
+38.60.246.69,true,Manila,Metro Manila,Philippines
+64.188.99.103,true,Frankfurt am Main,Hesse,Germany
+185.126.236.249,true,Vienna,Vienna,Austria
+38.60.210.28,true,Riyadh,Riyadh Region,Saudi Arabia
+45.80.209.101,true,Luxembourg,Luxembourg,Luxembourg
+185.90.61.136,true,Sandefjord,Vestfold,Norway
+185.113.143.166,true,Lisbon,Lisbon,Portugal
+185.250.180.4,true,Frankfurt am Main,Hesse,Germany
+185.255.123.223,true,Lagos,Lagos,Nigeria
+195.154.118.9,true,Paris,Île-de-France,France
+46.246.97.3,true,Stockholm,Stockholm,Sweden
+185.172.129.9,true,New York City,New York,United States
+185.47.255.235,true,San Juan,San Juan,Puerto Rico
+31.129.22.84,true,Viana do Castelo,Viana do Castelo,Portugal
+156.244.25.9,true,Ho Chi Minh City,Ho Chi Minh City (HCMC),Vietnam
+188.191.147.127,true,Tel Aviv,Tel Aviv,Israel
+92.38.149.110,true,Santa Clara,California,United States
+65.21.178.145,true,Helsinki,Uusimaa,Finland
+185.213.22.253,true,Brussels,Brussels Capital,Belgium
+95.217.181.14,true,Helsinki,Uusimaa,Finland
+195.123.210.25,true,Riga,Riga,Latvia
+185.126.236.242,true,Vienna,Vienna,Austria
+45.129.96.62,true,Tallinn,Harjumaa,Estonia
+37.143.128.173,true,Santiago,Santiago Metropolitan,Chile
+81.176.239.56,true,Moscow,Moscow,Russia
+87.121.99.221,true,Vitarte,Lima region,Peru
+213.226.68.8,true,Frankfurt am Main,Hesse,Germany
+195.133.11.227,true,Mytishchi,Moscow Oblast,Russia
+195.201.217.36,true,Nürnberg,Bavaria,Germany
+38.54.116.204,true,Muscat,Muscat,Oman
+45.154.207.185,true,Frankfurt am Main,Hesse,Germany
+81.19.141.36,true,Frankfurt am Main,Hesse,Germany
+185.246.153.12,true,Amsterdam,North Holland,Netherlands
+103.143.209.134,true,Hanoi,Hanoi,Vietnam
+113.30.151.53,true,Milan,Lombardy,Italy
+213.183.63.58,true,Sofia,Sofia-Capital,Bulgaria
+180.149.44.105,true,Baku,Baki,Azerbaijan
+31.40.212.218,true,Buenos Aires,Buenos Aires F.D.,Argentina
+139.99.236.232,true,Sydney,New South Wales,Australia
+154.93.37.101,true,Baghdad,Baghdad,Iraq
+185.135.86.26,true,Riga,Riga,Latvia
+91.148.135.236,true,Nicosia,Nicosia,Cyprus
+185.225.19.134,true,Iaşi,Iași County,Romania
+45.128.151.67,true,Riga,Riga,Latvia
+92.119.90.159,true,Frankfurt am Main,Hesse,Germany
+95.85.76.123,true,Bahçelievler,Istanbul,Turkey
+185.126.238.253,true,Athens,Attica,Greece
+45.66.248.14,true,Atlanta,Georgia,United States
+109.104.154.173,true,Amsterdam,North Holland,Netherlands
+179.43.156.125,true,Bellinzona,Ticino,Switzerland
+38.54.71.29,true,Kathmandu,Bagmati Province,Nepal
+109.199.107.177,true,Lauterbourg,Grand Est,France
+139.84.232.167,true,Benoni,Gauteng,South Africa
+195.238.126.91,true,Vilnius,Vilnius,Lithuania
+23.95.77.137,true,Zürich,Zurich,Switzerland
+77.91.101.227,true,Coventry,England,United Kingdom
+188.214.157.6,true,Casablanca,Casablanca-Settat,Morocco
+176.57.70.71,true,Lelystad,Flevoland,Netherlands
+92.38.171.215,true,San Sebastián de los Reyes,Madrid,Spain
+198.244.191.228,true,Bexley,England,United Kingdom
+184.170.142.45,true,Montréal,Quebec,Canada
+216.238.71.70,true,General Lázaro Cárdenas,Querétaro,Mexico
+51.89.164.54,true,Bexley,England,United Kingdom
+147.45.51.147,true,Milan,Lombardy,Italy
+185.47.253.245,true,Quito,Pichincha,Ecuador
+185.202.93.194,true,Chisinau,Chișinău Municipality,Moldova
+77.83.246.46,true,Serock,Mazovia,Poland
+51.75.65.62,true,Frankfurt am Main,Hesse,Germany
+185.213.22.215,true,Brussels,Brussels Capital,Belgium
+195.123.238.229,true,Singapore,,Singapore
+38.54.93.51,true,Phnom Penh,Phnom Penh,Cambodia
+185.82.219.165,true,Sofia,Sofia-Capital,Bulgaria
+91.184.248.51,true,Veselí nad Moravou,South Moravian,Czech Republic
+51.79.207.200,true,Singapore,,Singapore
+51.68.191.211,true,Frankfurt am Main,Hesse,Germany
+5.61.62.144,true,Salford,England,United Kingdom
+65.21.243.22,true,Helsinki,Uusimaa,Finland
+163.172.217.84,true,Amsterdam,North Holland,Netherlands
+124.217.248.193,true,Kuala Lumpur,Kuala Lumpur,Malaysia
+185.66.71.102,true,Maladziečna,Minsk,Belarus
+185.186.77.230,true,Tirana,Tirana,Albania
+91.148.134.220,true,Bogotá,Bogota D.C.,Colombia
+129.232.129.156,true,Johannesburg,Gauteng,South Africa
+5.181.77.159,true,Budapest,Budapest,Hungary
+5.188.36.169,true,Bahçelievler,Istanbul,Turkey
+5.75.189.9,true,Nürnberg,Bavaria,Germany
+38.54.116.228,true,Muscat,Muscat,Oman
+185.143.221.27,true,Khimki,Moscow Oblast,Russia
+195.123.239.26,true,Singapore,,Singapore
+185.135.86.86,true,Riga,Riga,Latvia
+85.239.61.192,true,London,England,United Kingdom
+188.240.213.206,false,Bishkek,Bishkek,Kyrgyzstan
+157.90.225.133,true,Nürnberg,Bavaria,Germany
+185.162.10.21,true,Sofia,Sofia-Capital,Bulgaria
+91.216.155.20,true,London,England,United Kingdom
+223.165.4.208,true,Taipei,Taiwan,Taiwan
+38.54.30.246,true,Hanoi,Hanoi,Vietnam
+185.123.53.179,true,Tallinn,Harjumaa,Estonia
+46.224.18.175,false,Nürnberg,Bavaria,Germany
+81.28.6.186,true,Frankfurt am Main,Hesse,Germany
+217.12.223.191,true,Kyiv,Kyiv City,Ukraine
+194.110.246.57,true,London,England,United Kingdom
+109.207.79.180,true,Rosh Ha‘Ayin,Central District,Israel
+167.235.139.105,false,Nürnberg,Bavaria,Germany
+162.55.174.98,true,Falkenstein,Saxony,Germany
+141.98.233.168,true,Brussels,Brussels Capital,Belgium
+145.14.131.209,true,San José,San José,Costa Rica
+193.0.179.84,true,Dronten,Flevoland,Netherlands
+162.55.41.13,true,Falkenstein,Saxony,Germany
+185.143.223.112,true,Atlanta,Georgia,United States
+5.61.63.236,true,Salford,England,United Kingdom
+51.158.151.154,true,Haarlem,North Holland,Netherlands
+38.54.2.244,true,Manama,Manama,Bahrain
+85.239.52.174,true,Atlanta,Georgia,United States
+191.96.70.53,true,São Paulo,São Paulo,Brazil
+146.185.248.65,true,Yerevan,Yerevan,Armenia
+95.130.85.38,true,Minsk,Minsk City,Belarus
+45.95.233.182,true,Noisiel,Île-de-France,France
+176.97.65.70,true,Singapore,,Singapore
+89.185.82.8,true,Skopje,Grad Skopje,Macedonia
+185.186.79.124,true,Copenhagen,Capital Region,Denmark
+45.10.58.109,true,London,England,United Kingdom
+45.130.146.91,false,Novosibirsk,Novosibirsk Oblast,Russia
+78.111.99.88,true,Frankfurt am Main,Hesse,Germany
+217.114.43.11,true,Moscow,Moscow,Russia
+45.81.243.71,true,Paris,Île-de-France,France
