@@ -8,8 +8,8 @@ count_url = ""
 def fetch_json(url):
     headers = {
         "Authorization": "",
-        "User-Agent": "NordApp android (playstoreMobile/7.6.1) Android 13",
-        "Nord-Agent": '{"App":"NordVPN","Platform":"Android","AppVersion":"7.6.1","API version":"33","DeviceInfo":"x86_64","AdditionalInfo":"flavor-playstoreMobile"}',
+        "User-Agent": "NordApp android (playstoreMobile/7.6.1) Android 14",
+        "Nord-Agent": '{"App":"NordVPN","Platform":"Android","AppVersion":"7.6.1","API version":"34","DeviceInfo":"x86_64","AdditionalInfo":"flavor-playstoreMobile"}',
         "Host": "",
         "Connection": "Keep-Alive",
         "Accept-Encoding": "gzip"

@@ -56,7 +56,7 @@ def get_headers():
     headers = {
         "x-pm-appversion" : "android-vpn@5.5.68.0+play",
         "x-pm-locale": "en",
-        "user-agent": "ProtonVPN/5.5.68.0 (Android 13; samsung SM-N935F)",
+        "user-agent": "ProtonVPN/5.5.68.0 (Android 14; Pixel XL)",
         "accept": "application/vnd.protonmail.v1+json",
         "content-type": "application/json; charset=utf-8",
         "content-length": "290",
